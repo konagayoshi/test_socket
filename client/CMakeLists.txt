@@ -1,4 +1,4 @@
-set( TARGET test_server )
+set( TARGET test_client )
 
 set( SOCKET_SRC_DIR ../common/src )
 
